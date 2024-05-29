@@ -33,16 +33,10 @@ Pour installer et exécuter l'application localement :
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/pixel-art-painter.git
+   git clone https://github.com/celiamartinelli/Invader_javascript.git
    ```
 
-2. Accédez au dossier du projet :
-
-   ```bash
-   cd pixel-art-painter
-   ```
-
-3. Ouvrez le fichier `index.html` dans votre navigateur préféré.
+2. Ouvrez le fichier `index.html` dans votre navigateur préféré.
 
 ## Utilisation
 
@@ -59,5 +53,7 @@ Pour installer et exécuter l'application localement :
 ### Dessin :
 
 - Cliquez sur les cases de la grille pour les colorer avec la couleur sélectionnée.
+
 # Invader_javascript
+
 # Invader_javascript
