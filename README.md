@@ -53,7 +53,3 @@ Pour installer et exécuter l'application localement :
 ### Dessin :
 
 - Cliquez sur les cases de la grille pour les colorer avec la couleur sélectionnée.
-
-# Invader_javascript
-
-# Invader_javascript
